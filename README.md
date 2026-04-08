@@ -1,6 +1,4 @@
-## Hello! I am Pragyan Saikia 👋
-
-### Welcome to My Profile 🙋
+## Hello! I am Pragyan . . .👋
 
 <!--
 **Pragyan-coder/Pragyan-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-
-## 👤 About Me:
+## Welcome to My Profile 🙋:
 
 I am an **IBM Certified Data Analyst** transitioning from 4+ years in Project Management into Business & Data Analytics. Focused, analytical, and results‑driven, I bridge domain knowledge with technical skills to improve reporting, forecasting, and go‑to‑market decisions. 
 I specialize in turning raw data into decision-making insights using tools such as **Python, SQL, and Power BI**. With hands-on project experience, I bring both analytical depth and business understanding to every challenge.
