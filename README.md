@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Pragyan Saikia 👋</h1>
 
 <p align="center">
-  <b>Data Analyst</b> · SQL · Power BI · Excel · Bloomberg Terminal<br>
-  📍 Delhi, India &nbsp;|&nbsp; 💼 Open to Data / MIS / BI / Finance Analyst roles
+  <b>Data Analyst</b> · SQL · Power BI · Excel · Python <br>
+  📍 Delhi, India &nbsp;|&nbsp; 💼 Open to Data / Busines / MIS / BI Analyst roles
 </p>
 
   <p align="center">
@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Email-pragyan.saikia04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
 
 ## Welcome to My Profile 🙋:
 
@@ -68,8 +67,6 @@ I specialize in turning raw data into decision-making insights using tools such 
 ## 📬 Let’s Connect:
 
 I’m **Open to** ‘Entry-level analyst’ roles & projects where I can contribute my skills to help turn your data into decisions, provide operational clarity, and drive revenue📈. Reach out to discuss how data can drive better decisions for your business !!
-
-- 📧 Email: [pragyan.saikia04@gmail.com]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyansaikia29/)
 
