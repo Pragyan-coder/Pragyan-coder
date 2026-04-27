@@ -4,11 +4,12 @@
   <b>Data Analyst</b> · SQL · Power BI · Excel · Bloomberg Terminal<br>
   📍 Delhi, India &nbsp;|&nbsp; 💼 Open to Data / MIS / BI / Finance Analyst roles
 </p>
+
+  <p align="center">
   <a href="mailto:pragyan.saikia04@gmail.com">
     <img src="https://img.shields.io/badge/Email-pragyan.saikia04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## Welcome to My Profile 🙋:
