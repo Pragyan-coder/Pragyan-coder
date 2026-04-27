@@ -1,6 +1,4 @@
-## 👋Hello! I am Pragyan . . .
-
-<h1 align="center">Hi, I'm Pragyan Saikia 👋</h1>
+<h1 align="center">Hello, I'm Pragyan Saikia 👋</h1>
 
 <p align="center">
   <b>Data Analyst</b> · SQL · Power BI · Excel · Bloomberg Terminal<br>
