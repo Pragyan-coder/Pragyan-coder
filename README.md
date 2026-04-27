@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Analyst</b> · SQL · Power BI · Excel · Python <br>
-  📍 Delhi, India &nbsp;|&nbsp; 💼 Open to Data / Busines / MIS / BI Analyst roles
+  📍 Delhi, India &nbsp;|&nbsp; 💼 Open to Data / Business / MIS / BI Analyst roles
 </p>
 
   <p align="center">
