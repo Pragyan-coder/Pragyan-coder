@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pragyansaikia29/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gaurav_Nikam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Pragyan_Saikia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pragyan.saikia04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gauravnikam471@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-pragyan.saikia04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
