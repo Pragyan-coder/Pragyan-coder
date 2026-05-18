@@ -40,16 +40,16 @@ I specialize in turning raw data into decision-making insights using tools such 
 
 ## 📈 Featured Projects:
 
-- Risk Analytics & Customer segmantation|Domain (Banking) [Link🔗](https://github.com/Pragyan-coder/Risk-Analytics-in-Banking-Loan-Service-using-Python-BI)
-- SQL Analytics & Data Workflow Automation|Domain (Retail) [Link🔗](https://github.com/Pragyan-coder/Market-Analytics-and-Data-Workflow-Automation-using-SQL)
-- Python Loan Status Prediction using ML|Domain (Banking) [Link🔗](https://github.com/Pragyan-coder/Loan-Status-Prediction-using-ML-Python) 
-- Excel Sales Interactive Dashboard|Domain (Sales) [Link🔗](https://github.com/Pragyan-coder/Sales-Interactive-Dashboard-using-Excel)
-- SQL Amazon Prime Analysis (Advanced)|Domain (Entertainment) [Link🔗](https://github.com/Pragyan-coder/Amazon-Prime-Shows-Analysis-using-advanced-SQL)  
-- BI Credit Card Finance Analytics|Domain (Banking) [Link🔗](https://github.com/Pragyan-coder/YCB-Credit_Card-Dashboard)
-- Excel Sales & Finance Analytics|Domain (Finance) [Link🔗](https://github.com/Pragyan-coder/Sales-Finance-Analysis-of-AtliQ-Hardware)
-- BI Customer Sales & Analysis|Domain (E-Commerce) [Link🔗](https://github.com/Pragyan-coder/E-Commerce-Sales-Analysis-using-Power-BI-)
-- Python Hospitality Operation Analysis|Domain (Hospitality) [Link🔗](https://github.com/Pragyan-coder/Hospitality-Analysis-EDA-using-Python-Libraries)
-- BI Marketing Supply Chain Analysis|Domain (Supply Chain) [Link🔗](https://github.com/Pragyan-coder/BI-Insights-for-Sales-Marketing-Supply-Chain-Analysis)
+- Risk Analytics & Customer segmantation | Domain (Banking) [Link🔗](https://github.com/Pragyan-coder/Risk-Analytics-in-Banking-Loan-Service-using-Python-BI)
+- SQL Analytics & Data Workflow Automation | Domain (Retail) [Link🔗](https://github.com/Pragyan-coder/Market-Analytics-and-Data-Workflow-Automation-using-SQL)
+- Python Loan Status Prediction using ML | Domain (Banking) [Link🔗](https://github.com/Pragyan-coder/Loan-Status-Prediction-using-ML-Python) 
+- Excel Sales Interactive Dashboard | Domain (Sales) [Link🔗](https://github.com/Pragyan-coder/Sales-Interactive-Dashboard-using-Excel)
+- SQL Amazon Prime Analysis (Advanced) | Domain (Entertainment) [Link🔗](https://github.com/Pragyan-coder/Amazon-Prime-Shows-Analysis-using-advanced-SQL)  
+- BI Credit Card Finance Analytics | Domain (Banking) [Link🔗](https://github.com/Pragyan-coder/YCB-Credit_Card-Dashboard)
+- Excel Sales & Finance Analytics | Domain (Finance) [Link🔗](https://github.com/Pragyan-coder/Sales-Finance-Analysis-of-AtliQ-Hardware)
+- BI Customer Sales & Analysis | Domain (E-Commerce) [Link🔗](https://github.com/Pragyan-coder/E-Commerce-Sales-Analysis-using-Power-BI-)
+- Python Hospitality Operation Analysis | Domain (Hospitality) [Link🔗](https://github.com/Pragyan-coder/Hospitality-Analysis-EDA-using-Python-Libraries)
+- BI Marketing Supply Chain Analysis | Domain (Supply Chain) [Link🔗](https://github.com/Pragyan-coder/BI-Insights-for-Sales-Marketing-Supply-Chain-Analysis)
 
  -----
 
