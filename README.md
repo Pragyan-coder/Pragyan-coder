@@ -40,25 +40,26 @@ I specialize in turning raw data into decision-making insights using tools such 
 
 ## 📈 Featured Projects:
 
-- Power BI Finance Analytics Dashboard
-- Excel Finance Report
-- Python Hospitality Analysis (EDA) using Pandas
-- Power BI Hospitality Analysis (EDA)
-- E-Commerce Sales BI Dashboard
-- Excel FMCG Sales Interactive Dashboard
-- SQL Retail Sales Analysis
-- Python FMCG (Uber Eats) Sales Analysis
-- HR Analytics BI Dashboard
-- SQL Online Store Analysis 
+- Risk Analytics & Customer segmantation|Domain (Banking) [Link🔗](https://github.com/Pragyan-coder/Risk-Analytics-in-Banking-Loan-Service-using-Python-BI)
+- SQL Analytics & Data Workflow Automation|Domain (Retail) [Link🔗](https://github.com/Pragyan-coder/Market-Analytics-and-Data-Workflow-Automation-using-SQL)
+- Python Loan Status Prediction using ML|Domain (Banking) [Link🔗](https://github.com/Pragyan-coder/Loan-Status-Prediction-using-ML-Python) 
+- Excel Sales Interactive Dashboard|Domain (Sales) [Link🔗](https://github.com/Pragyan-coder/Sales-Interactive-Dashboard-using-Excel)
+- SQL Amazon Prime Analysis (Advanced)|Domain (Entertainment) [Link🔗](https://github.com/Pragyan-coder/Amazon-Prime-Shows-Analysis-using-advanced-SQL)  
+- BI Credit Card Finance Analytics|Domain (Banking) [Link🔗](https://github.com/Pragyan-coder/YCB-Credit_Card-Dashboard)
+- Excel Sales & Finance Analytics|Domain (Finance) [Link🔗](https://github.com/Pragyan-coder/Sales-Finance-Analysis-of-AtliQ-Hardware)
+- BI Customer Sales & Analysis|Domain (E-Commerce) [Link🔗](https://github.com/Pragyan-coder/E-Commerce-Sales-Analysis-using-Power-BI-)
+- Python Hospitality Operation Analysis|Domain (Hospitality) [Link🔗](https://github.com/Pragyan-coder/Hospitality-Analysis-EDA-using-Python-Libraries)
+- BI Marketing Supply Chain Analysis|Domain (Supply Chain) [Link🔗](https://github.com/Pragyan-coder/BI-Insights-for-Sales-Marketing-Supply-Chain-Analysis)
 
- ---- 
+ -----
 
 ## 📜 Certifications:
 
 - Power BI Certification — TuteDude (IIT Alumni Initiative) [Click Here](https://upskill.tutedude.com/certificate/TD-PRAG-PB-1316)
 - Microsoft Power BI Analyst Certification — Microsoft (Coursera) [Click Here](https://coursera.org/share/a8eda9c06bbc246b29504b92ad0f9da4)
 - IBM Data Analyst Professional Certificate — IBM [Click Here](https://coursera.org/share/c9e2d1f15d8b152e4e8ca800a29f3588)
-- Gen AI for Data Analysts - IBM [Click Here](https://coursera.org/share/189709b837cc88ce90df077f75cf1472)
+- IBM Applied Data Science — IBM [Click Here](https://coursera.org/share/7b2c0873b1c74e1ea07c7658883b83bc)
+- Generative AI for Analysts - IBM [Click Here](https://coursera.org/share/189709b837cc88ce90df077f75cf1472)
 - Google AI Essentials - Google [Click Here](https://coursera.org/share/8f887a2c43153b93e460ef33727724f2)
 - UI Design Specialization - Coursera [Click Here](https://coursera.org/share/f53da0cd179e3a4707cfe302d4a501b3)
 
