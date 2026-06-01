@@ -22,11 +22,12 @@ I specialize in turning raw data into decision-making insights using tools such 
 
 - **Language:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
 - **BI & Visualization:** Excel, Power BI, Looker Studio, DAX
-- **Databases & Tools:** MySQL, PostgreSQL, Jupyter Notebook, VS Code
+- **Databases & Tools:** MS Fabric, MySQL, PostgreSQL, Jupyter Notebook, VS Code
 - **Analytical Abilities:** Exploratory Data Analysis (EDA), Data Cleaning, Revenue Forecasting, Insight Generation
 
 
-<img width="1600" height="487" alt="Git" src="https://github.com/user-attachments/assets/6c183893-dfeb-4243-a166-8b8f121c5a1d" />
+<img width="1600" height="462" alt="zz" src="https://github.com/user-attachments/assets/1052e260-1fad-4c3e-8115-28eb5b52f6d4" />
+
 
 ----
 
