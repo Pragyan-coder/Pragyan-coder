@@ -57,12 +57,13 @@ I specialize in turning raw data into decision-making insights using tools such 
 ## 📜 Certifications:
 
 - Power BI Certification — TuteDude (IIT Alumni Initiative) [Click Here](https://upskill.tutedude.com/certificate/TD-PRAG-PB-1316)
-- Microsoft Power BI Analyst Certification — Microsoft (Coursera) [Click Here](https://coursera.org/share/a8eda9c06bbc246b29504b92ad0f9da4)
-- IBM Data Analyst Professional Certificate — IBM [Click Here](https://coursera.org/share/c9e2d1f15d8b152e4e8ca800a29f3588)
+- MS Power BI Analyst Certification — Microsoft (Coursera) [Click Here](https://coursera.org/share/a8eda9c06bbc246b29504b92ad0f9da4)
+- IBM Data Analyst Professional Certification — IBM [Click Here](https://coursera.org/share/c9e2d1f15d8b152e4e8ca800a29f3588)
 - IBM Applied Data Science — IBM [Click Here](https://coursera.org/share/7b2c0873b1c74e1ea07c7658883b83bc)
 - Generative AI for Analysts - IBM [Click Here](https://coursera.org/share/189709b837cc88ce90df077f75cf1472)
 - Google AI Essentials - Google [Click Here](https://coursera.org/share/8f887a2c43153b93e460ef33727724f2)
 - UI Design Specialization - Coursera [Click Here](https://coursera.org/share/f53da0cd179e3a4707cfe302d4a501b3)
+- BigQuery Analytics - Google [Click Here](https://coursera.org/share/84e3dd513e072c8812d54f80776c50ad)
 
 ---
 
